@@ -1348,7 +1348,7 @@ h1, h2, h3, h4, h5,
 .bg-light {
   background-color: #f6f5f5 !important; }
 
-/* cruise */
+
 .feature-1 {
   background: #ccc;
   position: relative;
@@ -1456,7 +1456,7 @@ h1, h2, h3, h4, h5,
   background: #fff;
   margin-bottom: 30px; }
 
-/* carrent */
+
 .feature-car-rent-box-1 {
   position: relative;
   padding: 30px;
@@ -1957,7 +1957,7 @@ form .btn {
     
     .carousel-inner{
         background-color: rgba(0,0,0,0.5);
-        height: 30rem; */
+        height: 30rem; 
         z-index: 1;
     }
     
@@ -2129,9 +2129,10 @@ form .btn {
       color: #303c6c;
     }
     
-   
+    h2, h2 {
+    font-size: 4rem;
+  }
     
-  
     
     #portfolio-photo{
       margin-right: 5%;
@@ -2268,23 +2269,19 @@ form .btn {
     }
     
     .portfolio-modal .close-modal .lr {
-      /* Safari and Chrome */
       z-index: 1051;
       width: 1px;
       height: 75px;
       margin-left: 35px;
-      /* IE 9 */
       -webkit-transform: rotate(45deg);
       transform: rotate(45deg);
       background-color: #303c6c;
     }
     
     .portfolio-modal .close-modal .lr .rl {
-      /* Safari and Chrome */
       z-index: 1052;
       width: 1px;
       height: 75px;
-      /* IE 9 */
       -webkit-transform: rotate(90deg);
       transform: rotate(90deg);
       background-color: #303c6c;
