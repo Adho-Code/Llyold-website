@@ -271,7 +271,7 @@ h1, h2, h3, h4, h5,
 
 .site-footer {
   padding: 4em 0;
-  background: #000; }
+  background:rgb(106, 106, 192); }
   @media (min-width: 768px) {
     .site-footer {
       padding: 8em 0; } }
@@ -892,7 +892,7 @@ h1, h2, h3, h4, h5,
     line-height: 1; }
   .block-counter-1 .number {
     color: #fb7400;
-    font-size: 4rem;
+    font-size: 2rem;
     position: relative;
     padding-bottom: 20px;
     margin-bottom: 20px; }
@@ -912,7 +912,7 @@ h1, h2, h3, h4, h5,
       background: rgba(52, 58, 64, 0.3); }
   .block-counter-1 .caption {
     font-size: 14px;
-    letter-spacing: .05em; }
+    letter-spacing: 0.5em; }
 
 .block-team-member-1 {
   padding: 30px;
